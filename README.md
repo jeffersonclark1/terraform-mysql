@@ -18,7 +18,7 @@ Tecnologias utilizadas
 
 ```sh
 mkdir terraform && cd terraform
-git clone https://github.com/jeffersonclark1/vagrant-mysql.git
+git clone https://github.com/jeffersonclark1/terraform-mysql.git
 terraform init
 terraform plan
 terraform apply
